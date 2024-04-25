@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'c:/Users/tamar/Desktop/informatik/neu/06-data-ethics-and-ai-e282265/documents/build/tutorial.blg'
+[1010] biber-MSWIN64:340> INFO - === 
+[1094] Biber.pm:419> INFO - Reading 'c:/Users/tamar/Desktop/informatik/neu/06-data-ethics-and-ai-e282265/documents/build/tutorial.bcf'
+[1297] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[1333] bbl.pm:660> INFO - Writing 'c:/Users/tamar/Desktop/informatik/neu/06-data-ethics-and-ai-e282265/documents/build/tutorial.bbl' with encoding 'UTF-8'
+[1334] bbl.pm:763> INFO - Output to c:/Users/tamar/Desktop/informatik/neu/06-data-ethics-and-ai-e282265/documents/build/tutorial.bbl
+[1334] Biber.pm:131> WARN - The file 'c:/Users/tamar/Desktop/informatik/neu/06-data-ethics-and-ai-e282265/documents/build/tutorial.bcf' does not contain any citations!
+[1342] Biber.pm:133> INFO - WARNINGS: 1
